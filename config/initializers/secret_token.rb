@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Deviser::Application.config.secret_key_base = 'b6f69f5dea0fa697e8a4bb8bed0931a4af2f51bb2f2463bf1a1ef9f625ccf54d5be6fe9ee7f923f7b1e7e30de78d3e8d036df2f085646b3dc64ae9f2d505360e'
+Deviser::Application.config.secret_key_base = '3e58fdaa9661118365643260f725c991a183bcef260404bff2297bdab913bbebd6011297bbcd4d7f20bb45a7b8b8550d5d4718aef14bae60549ae83307c75d4a'
